@@ -7,11 +7,14 @@ fun main(args: Array<String>) {
     println(e.p)
     println(e.i)
     println(e.r)
+    println(e.x)
     println("Setting...")
     e.p = "Robxx"
     e.i = 10
     e.r = "RobDelegateStuff"
+    e.x = "robxx xxx set"
     println(e.p)
     println(e.i)
     println(e.r)
+    println(e.x)
 }
